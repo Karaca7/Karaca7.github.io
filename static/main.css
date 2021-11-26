@@ -46,11 +46,13 @@ img{
 .yumurta{
 
     margin-left: 7%;
+
+    margin-top: 10%;
     margin-right: 15%;
     width: 60%;
 
     height: 1000px;
-    background-color: #00A359;
+    /* background-color: #00A359; */
 
 }
 
