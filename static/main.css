@@ -10,28 +10,6 @@
 /* telefon */
 
 
-
-img{
-    width: 30%;
-    
-    margin-left: 40%;
-    background-size: cover;
-    background-size: auto;
-    
-
-
-}
-
-
-.ta img:hover{
-    background-color: #28a745;
-    cursor:pointer;
-    
-
-/* berkcan homie buraya curosr icon değiştirilecek dedi. */
-}
-
-
 [class*="col-"]{
         
     float: left;
@@ -49,9 +27,49 @@ img{
     
 }
 
-.resim{
+.ta img{
+    width: 30%;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    background-size: auto;
+    
+
+
+}
+
+
+.ta img:hover{
+    background-color: #28a745;
+    cursor:pointer;
+    border-radius: 100px;
+    /* text-shadow: 10px 10px 10px #232426; */
+
+
+/* berkcan homie buraya curosr icon . beğendiremedik.... */ 
+}
+
+
+
+.ta{
+    width: 50%;
+      /* border: 1px solid green;   */
+    float:left;
+    margin-top: 20px;
+
+
+}
+
+.ta p{
+    text-align: center;
+
+}
+
+.resim-box{
     width: 100%;
-    height: 1070px;
+    height: 1080px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: auto;
@@ -73,15 +91,7 @@ img{
 
 }
 
-.ta{
-    width: 50%;
-     /* border: 1px solid green;  */
-    float:left;
-}
 
-.ta span p{
-    text-align: center;
-}
 
 
 
