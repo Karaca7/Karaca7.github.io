@@ -103,7 +103,7 @@ html {
     /* text-shadow: 10px 10px 10px #232426; */
 
 
-/* berkcan homie buraya curosr icon . beğendiremedik.... */ 
+/* berkcan homie bu curosr icon . beğendiremedik.... */ 
 }
 
 
@@ -138,7 +138,7 @@ html {
 }
 
 .footer{
-    margin-top: 130px;
+    margin-top: 40px;
 }
 
 
@@ -205,7 +205,10 @@ h2 {
     background-image: url("/static/image/profil.jpg");
     background-size: cover;
 
+
 }
+
+
 
 nav{    
     margin-top: 9%;;
